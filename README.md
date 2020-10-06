@@ -1,2 +1,2 @@
-# empty-plate
-this is an empty boiler plate you can use this if you want it has matter.js installed.
+# p5.play-boilerplate
+Boiler plate for p5.play
